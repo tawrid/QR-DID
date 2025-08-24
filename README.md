@@ -49,7 +49,7 @@ QR-DID integrates three cutting-edge technologies to create a secure, private, a
 │   ├── pqc_demo.py         # Conceptual Python script for PQC
 │   ├── did_blockchain.js   # Conceptual JavaScript for DID interaction
 │   └── ai_behavioral.py    # Conceptual Python script for AI analytics
-└── docs/
+└── docs/                   #Any project relevant referene docs
 └── whitepaper.pdf      # (Future: Link to or host the whitepaper)
 ```
 
@@ -62,7 +62,7 @@ To explore the concepts:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/qr-did.git](https://github.com/your-username/qr-did.git)
+    git clone https://github.com/tawrid/qr-did.git
     cd qr-did
     
     ```
